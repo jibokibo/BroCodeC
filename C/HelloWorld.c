@@ -1,0 +1,1 @@
+#include <stdio.h>int main(){  printf("soso!\n");  char message[100];  scanf("%s", message);  return 0;}
